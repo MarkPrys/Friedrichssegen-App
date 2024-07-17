@@ -1,0 +1,4 @@
+
+wget https://browser.sentry-cdn.com/8.2.1/bundle.min.js
+wget https://browser.sentry-cdn.com/8.2.1/bundle.min.js.map
+

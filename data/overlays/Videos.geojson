@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "name": "Videos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 46,
+        "stroke": "#007478",
+        "stroke-opacity": 0.75,
+        "stroke-width": 6,
+        "Objekt": "Hubertusviadukt",
+        "Video": ["./data/content/video/Friedrichssegen.mp4"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.670084273602994,
+        50.303141969052106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 47,
+        "stroke": "#007478",
+        "stroke-opacity": 0.75,
+        "stroke-width": 6,
+        "Objekt": "Hubertusviadukt",
+        "Video": ["./data/content/video/Hubertusviadukt_compressed_cutted.webm"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.667909920912156,
+        50.306496208854966]
+      }
+    }
+  ]
+}

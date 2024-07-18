@@ -48,7 +48,7 @@
         "stroke-opacity": 0.75,
         "stroke-width": 6,
         "Objekt": "Erze",
-        "PDF": ["./data/content/pdf/FS_Erze"]
+        "PDF": ["./data/content/pdf/FS_Erze.pdf"]
       },
       "geometry": {
         "type": "Point",
@@ -448,7 +448,7 @@
         "stroke-opacity": 0.75,
         "stroke-width": 6,
         "Objekt": "Gemeinsam mit Gott",
-        "PDF": ["./data/content/pdf/FS_Gemeinsam mit Gott.pdf"]
+        "PDF": ["./data/content/pdf/FS_Gemeinsam_mit_Gott.pdf"]
       },
       "geometry": {
         "type": "Point",

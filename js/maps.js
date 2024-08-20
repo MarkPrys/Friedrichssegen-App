@@ -133,5 +133,12 @@ const LAYERS = {
         age: 5,
       },
     },
+    // {
+    //   name: "Panorama",
+    //   url: "data/overlays/pano.geojson",
+    //   options: {
+    //     age: 4,
+    //   },
+    // },
   ],
 };
